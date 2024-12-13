@@ -13,5 +13,6 @@ FirstName: anuevo
 LastName: cked
 
 ```
+For the mailer folder: you can email me jomartinez.jm5@gmail.com
 
 
